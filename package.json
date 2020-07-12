@@ -1,0 +1,26 @@
+{
+  "name": "routeruv",
+  "version": "1.0.0",
+  "description": "Simple node.js router library without a need to create a server. Clear API and zero dependencies ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktornord/routeruv.git"
+  },
+  "keywords": [
+    "http",
+    "router",
+    "serverless",
+    "middleware",
+    "lambda"
+  ],
+  "author": "Viktor Urbanas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktornord/routeruv/issues"
+  },
+  "homepage": "https://github.com/viktornord/routeruv#readme"
+}
